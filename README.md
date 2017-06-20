@@ -1,6 +1,6 @@
-# Splendor Board Game
+# Play the Splendor board game in Python
 
-Uncompleted project.
+Work in progress.
 
 Aims: 
 1) Recreate the board game Splendor.
